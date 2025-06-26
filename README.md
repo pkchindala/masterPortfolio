@@ -60,7 +60,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
   ```
 - Now the project is ready to use
 - You can check it using `npm start`, it will open the website locally on your browser.
-
+   
 # Customize it to make your own portfolio ✏️
 
 In this project, there are basically 4 things that you need to change to customize this to anyone else's portfolio: **package.json**, **Personal Information**, **Github Information** and **Splash Logo**.
